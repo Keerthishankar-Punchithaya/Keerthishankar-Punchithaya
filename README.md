@@ -19,3 +19,4 @@ Visualization: Power BI, Tableau, Python </br>
 [LinkedIn]() </br>
 [GitHub]() </br>
 [Email](punchithayakeerthishankar@gmail.com) </br>
+[Resume](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6655e229731be4118939834d)
